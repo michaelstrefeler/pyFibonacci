@@ -3,7 +3,7 @@ A python script that lists the numbers of the fibonacci sequence up to a number 
 
 Like this:
 
-![Tutrle Fibonacci](https://i.imgur.com/LwYwDpS.png)
+![Tutrle Fibonacci](https://i.imgur.com/LyvI6sc.png)
 ## How to run script
 Go to folder where script is with cd command and type:
 ```bash
